@@ -1,0 +1,6 @@
+{
+  "name": "Passport Photo Maker",
+  "description": "Offline shopkeeper tool for creating 3.5x4.5cm passport photos and 4x6 printable 12-photo sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
